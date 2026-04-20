@@ -1,0 +1,28 @@
+# Agentic AI Career Decision Assistant — Requirements
+# Python 3.10+ recommended
+
+# LangChain + LangGraph
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+
+# Vector Store + Embeddings
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# OpenAI (for LLM)
+openai>=1.30.0
+
+# Utilities
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# ML/Numerical
+numpy>=1.24.0
+
+# Optional: for local LLM support (uncomment if needed)
+# ollama>=0.1.0
