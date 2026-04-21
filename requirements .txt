@@ -1,0 +1,24 @@
+# Agentic AI Career Decision Assistant — Requirements
+# Capstone Project 2025–26 | Academic Year 2025–2026
+# Python 3.10+ recommended
+
+# ── Agentic Framework ────────────────────────────────────────
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+
+# ── Vector Store & Embeddings ────────────────────────────────
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
+
+# ── Language Model API ───────────────────────────────────────
+openai>=1.30.0
+
+# ── Web Interface ────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Utilities ────────────────────────────────────────────────
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
