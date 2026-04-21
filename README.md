@@ -290,9 +290,12 @@ This project demonstrates the following concepts:
 
 Screenshots of the running application are included in the project documentation PDF:
 
-1. **Streamlit Chat Interface** — Main chat window with sidebar configuration panel
-2. **Skill Gap Analysis Output** — Structured gap report with readiness percentage
-3. **Chat Response with Metadata** — AI response annotated with route, faithfulness score, and knowledge sources
+1. **Streamlit Chat Interface** — <img width="1910" height="908" alt="Screenshot 2026-04-21 010627" src="https://github.com/user-attachments/assets/d7025671-3fc8-42a2-9877-671def45eb68" />
+
+2. **Skill Gap Analysis Output** —<img width="1911" height="882" alt="Screenshot 2026-04-21 010710" src="https://github.com/user-attachments/assets/a6ee98fa-d88b-4ea1-9e66-9a8e50009d65" />
+
+3. **Chat Response with Metadata** — 
+<img width="1514" height="636" alt="Screenshot 2026-04-21 010816" src="https://github.com/user-attachments/assets/289f7fdd-08df-4b22-8937-e2daa11ab485" />
 
 ---
 
